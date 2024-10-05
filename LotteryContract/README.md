@@ -1,36 +1,3 @@
-  <title>Lottery Smart Contract</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        h1 {
-            color: #2c3e50;
-        }
-        h2 {
-            color: #2980b9;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        code {
-            font-family: "Courier New", monospace;
-            background-color: #eee;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        a {
-            color: #2980b9;
-        }
-    </style>
-</head>
-<body>
-
 <h1>Lottery Smart Contract</h1>
 
 <p>This is a simple lottery smart contract built using Solidity. It allows participants to enter the lottery by purchasing tickets, and the owner can pick a winner at the end of the lottery.</p>
