@@ -2,7 +2,7 @@
 
 Welcome to the **SmartContractsHub** repository! This repository contains various smart contracts developed using Solidity for Ethereum-based applications.
 
-## Contracts
+* [ ]  Contracts
 
 ### 1. [Lottery Contract](LotteryContract)
 
@@ -11,6 +11,14 @@ Welcome to the **SmartContractsHub** repository! This repository contains variou
   - Participants can enter the lottery by sending Ether.
   - Random winner selection based on participant entries.
   - Events for tracking lottery entries and winner selection.
+
+### 2. [User Management Contract](UserManagementContract)
+
+- **Description**: A contract for managing user accounts with administrative features.
+- **Key Features**:
+  - Add, delete, and retrieve user information.
+  - Admin-only functions to maintain security.
+  - Event logging for user actions.
 
 ## LICENSE
 
