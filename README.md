@@ -2,7 +2,7 @@
 
 Welcome to the **SmartContractsHub** repository! This repository contains various smart contracts developed using Solidity for Ethereum-based applications.
 
-* [ ]  Contracts
+## Contracts
 
 ### 1. [Lottery Contract](LotteryContract)
 
